@@ -10,43 +10,17 @@ This project recreates a Rockstar-style intro reveal, followed by immersive para
 🎬 Cinematic transitions inspired by GTA VI
 
 ✨ Features
-
 🔥 SVG Mask Intro Animation
-
 Animated VI logo using SVG masking
-
 Scale + rotation reveal with GSAP timelines
-
 Seamless transition into main content
 
 🎥 Cinematic GSAP Animations
-
 Multi-layer animations (sky, background, character, text)
-
 Advanced easing (Expo, Power4)
-
 Timeline-based orchestration
 
 🖱️ Interactive Parallax Effects
-
 Mouse-controlled parallax movement
-
 Dynamic depth illusion for background & text
-
 Smooth GSAP tweens for realism
-
-🧠 Optimized React Logic
-
-useGSAP hook integration
-
-Conditional rendering after intro animation
-
-Clean state-driven animation flow
-
-🎨 AAA Game UI Styling
-
-Rockstar-inspired typography
-
-Gradient overlays & cinematic layout
-
-Tailwind CSS utility styling
