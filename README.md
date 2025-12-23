@@ -5,7 +5,7 @@ This project recreates a Rockstar-style intro reveal, followed by immersive para
 
 🚀 Live Experience
 
-🌀 Smooth intro mask animation
+🌀 Smooth intro mask animation </br>
 🌌 Parallax mouse-move effects
 🎬 Cinematic transitions inspired by GTA VI
 
