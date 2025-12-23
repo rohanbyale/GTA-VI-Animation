@@ -1,12 +1,52 @@
+🎮 GTA VI Cinematic Landing Animation (React + GSAP)
 
+A cinematic GTA VI–inspired landing page animation built using React, GSAP, and SVG masking techniques.
+This project recreates a Rockstar-style intro reveal, followed by immersive parallax motion effects and smooth transitions for a premium AAA-game feel.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Live Experience
 
-Currently, two official plugins are available:
+🌀 Smooth intro mask animation
+🌌 Parallax mouse-move effects
+🎬 Cinematic transitions inspired by GTA VI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
 
-## Expanding the ESLint configuration
+🔥 SVG Mask Intro Animation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Animated VI logo using SVG masking
+
+Scale + rotation reveal with GSAP timelines
+
+Seamless transition into main content
+
+🎥 Cinematic GSAP Animations
+
+Multi-layer animations (sky, background, character, text)
+
+Advanced easing (Expo, Power4)
+
+Timeline-based orchestration
+
+🖱️ Interactive Parallax Effects
+
+Mouse-controlled parallax movement
+
+Dynamic depth illusion for background & text
+
+Smooth GSAP tweens for realism
+
+🧠 Optimized React Logic
+
+useGSAP hook integration
+
+Conditional rendering after intro animation
+
+Clean state-driven animation flow
+
+🎨 AAA Game UI Styling
+
+Rockstar-inspired typography
+
+Gradient overlays & cinematic layout
+
+Tailwind CSS utility styling
